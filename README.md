@@ -32,3 +32,6 @@ No arquivo requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
+
+# Moedas
+No arquivo currents.txt
