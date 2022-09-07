@@ -22,3 +22,6 @@ pip install playwright
 playwright install
 ```
 
+<span>
+  <img src="https://user-images.githubusercontent.com/85804895/188983884-6e99d84e-c166-42f8-a529-df8c23a6dec1.gif">
+</span>
