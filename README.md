@@ -23,7 +23,7 @@ playwright install
 ```
 
 <span>
-  <img src="https://user-images.githubusercontent.com/85804895/188983884-6e99d84e-c166-42f8-a529-df8c23a6dec1.gif">
+  <img src="https://user-images.githubusercontent.com/85804895/188985949-8c8536f9-1788-4ff7-9578-4ec6d9ea5be2.gif">
 </span>
 
 # Requerimentos
