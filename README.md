@@ -1,4 +1,4 @@
-# Automação usando python
+# Automação Web usando python
 Exemplo simples de automação web para pegar as cotações atuais de algumas moedas.
 
 # Selenium
@@ -25,3 +25,10 @@ playwright install
 <span>
   <img src="https://user-images.githubusercontent.com/85804895/188983884-6e99d84e-c166-42f8-a529-df8c23a6dec1.gif">
 </span>
+
+# Requerimentos
+No arquivo requirements.txt
+
+```bash
+pip install -r requirements.txt
+```
